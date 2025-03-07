@@ -80,14 +80,19 @@ Digisoul/
 └── package.json
 ```
 
-## Dashboard
+## <img src="./DigisoulDashboard/Misc/node.gif" width=100 height=100> Dashboard
 
 ![](https://github.com/DeadStar009/SoulMesh/blob/main/DigisoulDashboard/Digisoul1.gif)
 
 
-# Technology Stack
+# <img src="./DigisoulDashboard/Misc/js.gif" width=100 height=100> Technology Stack
 - Next.js
 - TypeScript
 - React
 - Web3.js
 - SASS/SCSS
+
+# <img src="./DigisoulDashboard/Misc/bin.gif" width=100 height=100> ZK Proofs
+
+![Image](https://github.com/user-attachments/assets/06a980ce-e20c-412b-abff-7402606e784a)
+![Image](https://github.com/user-attachments/assets/7b90e1a0-5274-42f8-91c5-2e504e17b208)
