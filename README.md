@@ -56,12 +56,7 @@ npm install
 yarn install
 ```
 
-3. Create a `.env` file in the root directory and add necessary environment variables:
-```env
-NEXT_PUBLIC_API_URL=your_api_url
-```
-
-4. Run the development server:
+3. Run the development server:
 ```bash
 npm run dev
 # or
