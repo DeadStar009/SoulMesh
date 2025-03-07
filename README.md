@@ -30,6 +30,51 @@ Digisoul is an innovative platform that leverages blockchain technology to creat
 ![Image](https://github.com/user-attachments/assets/62b598d0-be67-4074-8389-b9434ff14e27)
 ![Image](https://github.com/user-attachments/assets/892a8503-113b-4b96-aafb-2ea67ef3e96e)
 
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Unknnownnn/Digisoul.git
+cd Digisoul
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Create a `.env` file in the root directory and add necessary environment variables:
+```env
+NEXT_PUBLIC_API_URL=your_api_url
+```
+
+4. Run the development server:
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Project Structure
+```
+Digisoul/
+├── src/
+│   ├── components/
+│   ├── constant/
+│   ├── context/
+│   ├── pages/
+│   └── styles/
+├── public/
+│   ├── images/
+│   └── fonts/
+├── styles/
+└── package.json
+```
+
 ## Dashboard
 
 ![](https://github.com/DeadStar009/SoulMesh/blob/main/DigisoulDashboard/Digisoul1.gif)
