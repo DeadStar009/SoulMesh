@@ -60,6 +60,9 @@ A Web3 dashboard application with secure wallet connection and ZKP verification.
 - SASS/SCSS
 
 # <img src="./DigisoulDashboard/Misc/bin.gif" width=100 height=100> ZK Proofs
+![Image](https://github.com/user-attachments/assets/94ebdbff-4ed2-4dd5-bb2a-6f181251aeb7)
+
+<br/>
 
 ![Image](https://github.com/user-attachments/assets/06a980ce-e20c-412b-abff-7402606e784a)
 ![Image](https://github.com/user-attachments/assets/7b90e1a0-5274-42f8-91c5-2e504e17b208)
