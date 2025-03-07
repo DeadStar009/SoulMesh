@@ -1,6 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/74178dd6-b0e1-45cc-80a8-db858f1526ad)
 # SoulMesh
 
+## <img src="./DigisoulDashboard/Misc/banner.gif">
 ## Problem Statement
 Modern businesses suffer from soaring acquisition costs (CAC) due to fragmented Web2 and Web3 data and invasive data brokers. Soulmesh solves this by fusing identity, privacy, and data monetization into one ecosystem. DigiSoul leverages SBT-based credentials and zero-knowledge proofs to unify user data, while Corpus offers a privacy-preserving data marketplace for qualified leads. This dramatically reduces CAC, ensures compliance, and fosters trust, making Soulmesh indispensable for any enterprise navigating today’s digital landscape.
 
