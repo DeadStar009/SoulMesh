@@ -1,0 +1,8 @@
+Wallet -> cd vyfn
+npm start
+
+vfyn\src -> npm start
+wallet -> cd test
+Digisoul -> npm run dev
+
+soulsoul-> npm run dev
