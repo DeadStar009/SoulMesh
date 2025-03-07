@@ -68,6 +68,7 @@ A Web3 dashboard application with secure wallet connection and ZKP verification.
 
 ![Image](https://github.com/user-attachments/assets/92edd7c6-d54b-4fc8-bc85-2c78bf621d07)
 ![Image](https://github.com/user-attachments/assets/9236037d-3b93-4893-9ed9-8b2de966ddbf)
+![](https://github.com/DeadStar009/SoulMesh/blob/7d5c265d6c89c81a7fb9624e062a62e9784b322a/DigisoulDashboard/Misc/market.gif)
 
 # <img src="./DigisoulDashboard/Misc/py.gif" width=100 height=100> Soul ID
 ![Image](https://github.com/user-attachments/assets/b98aa220-9f49-415c-837e-23ae8b03375c)
