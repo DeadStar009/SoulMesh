@@ -15,7 +15,10 @@ Digisoul is an innovative platform that leverages blockchain technology to creat
 4. [Dashboard](#Dashboard)
 5. [Technology Stack](#technology-stack)
 
-## Features
+<br/>
+
+## <img src="./DigisoulDashboard/Misc/brack.gif" width=100 height=100> Features
+
 
 - Digital Identity Creation
 - Blockchain-Based Credit Scoring
@@ -24,7 +27,9 @@ Digisoul is an innovative platform that leverages blockchain technology to creat
 - Web3 Integration
 - Real-time Analytics Dashboard
 
-## Frontend
+  <br/>
+
+## <img src="./DigisoulDashboard/Misc/react.gif" width=100 height=100> Frontend
 ![](https://github.com/DeadStar009/SoulMesh/blob/main/DigisoulDashboard/Mainweb.gif)
 ![Image](https://github.com/user-attachments/assets/49c54b26-fa66-4177-a8f0-7a27a0ad2e63)
 ![Image](https://github.com/user-attachments/assets/62b598d0-be67-4074-8389-b9434ff14e27)
