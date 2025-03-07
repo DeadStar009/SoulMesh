@@ -25,7 +25,7 @@ Digisoul is an innovative platform that leverages blockchain technology to creat
 - Real-time Analytics Dashboard
 
 ## Frontend
-
+![](https://github.com/DeadStar009/SoulMesh/blob/main/DigisoulDashboard/Mainweb.gif)
 ![Image](https://github.com/user-attachments/assets/49c54b26-fa66-4177-a8f0-7a27a0ad2e63)
 ![Image](https://github.com/user-attachments/assets/62b598d0-be67-4074-8389-b9434ff14e27)
 ![Image](https://github.com/user-attachments/assets/892a8503-113b-4b96-aafb-2ea67ef3e96e)
