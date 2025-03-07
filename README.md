@@ -2,8 +2,7 @@
 # SoulMesh
 
 ## Problem Statement
-Soulmesh is a one stop soultion to your own personal identity on web3.
-Digisoul is an innovative platform that leverages blockchain technology to create a transparent and secure credit scoring system based on digital footprints. By analyzing online activities and financial behavior, Digisoul provides trustworthy credit scores that reflect true creditworthiness, empowering users to take control of their financial future.
+Modern businesses suffer from soaring acquisition costs (CAC) due to fragmented Web2 and Web3 data and invasive data brokers. Soulmesh solves this by fusing identity, privacy, and data monetization into one ecosystem. DigiSoul leverages SBT-based credentials and zero-knowledge proofs to unify user data, while Corpus offers a privacy-preserving data marketplace for qualified leads. This dramatically reduces CAC, ensures compliance, and fosters trust, making Soulmesh indispensable for any enterprise navigating today’s digital landscape.
 
 <br/>
 
@@ -16,6 +15,12 @@ Digisoul is an innovative platform that leverages blockchain technology to creat
 5. [Technology Stack](#technology-stack)
 
 <br/>
+
+## <img src="./DigisoulDashboard/Misc/blk.gif" width=60 height=60> Introduction
+
+DigiSoul is a two-layer zero-knowledge (ZK) identity platform that merges Web2 and Web3 data into a single, privacy-preserving dashboard. Users hold a SoulPass, backed by SBTs (Soulbound Tokens), which aggregate credentials such as credit scores, employment history, on-chain activity, and more—all verified through ZK proofs. The system employs a two-layer RSA-based ZKP: first, to confirm that a user’s public key is part of an authorized set (via a Merkle proof), and second, to verify their signature without revealing any private information.
+
+Meanwhile, Corpus extends the ecosystem as a data marketplace where businesses can tap into privacy-preserving, user-approved insights from DigiSoul. Users selectively monetize verified attributes—such as high-level creditworthiness or professional credentials—while machine perception algorithms and AI models benefit from authentic, high-quality data. By bridging verified identity (DigiSoul) with scalable data exchange (Corpus), this platform empowers ethical data monetization and advanced analytic without sacrificing user privacy or trust.
 
 ## <img src="./DigisoulDashboard/Misc/brack.gif" width=100 height=100> Features
 
@@ -64,21 +69,7 @@ yarn dev
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Project Structure
-```
-Digisoul/
-├── src/
-│   ├── components/
-│   ├── constant/
-│   ├── context/
-│   ├── pages/
-│   └── styles/
-├── public/
-│   ├── images/
-│   └── fonts/
-├── styles/
-└── package.json
-```
+<br/>
 
 ## <img src="./DigisoulDashboard/Misc/node.gif" width=100 height=100> Dashboard
 
@@ -96,3 +87,8 @@ Digisoul/
 
 ![Image](https://github.com/user-attachments/assets/06a980ce-e20c-412b-abff-7402606e784a)
 ![Image](https://github.com/user-attachments/assets/7b90e1a0-5274-42f8-91c5-2e504e17b208)
+
+
+# <img src="./DigisoulDashboard/Misc/py.gif" width=100 height=100> Soul ID
+![Image](https://github.com/user-attachments/assets/b98aa220-9f49-415c-837e-23ae8b03375c)
+![Image](https://github.com/user-attachments/assets/32afd1c9-4293-47d8-91bc-5d3370747f42)
